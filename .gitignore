@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Privacy: User backups and personal CSV data must never be committed to Git
+*.json.bak
+examinex-backup-*.json
+*.backup.json
+*class_data*.csv
+*uploaded*.csv
+private/
+

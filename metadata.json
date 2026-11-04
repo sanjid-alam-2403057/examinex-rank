@@ -1,0 +1,6 @@
+{
+  "name": "EXAMINEX RANK",
+  "description": "Semester final target calculator, assessment scheme editor, and student rank competitor analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
